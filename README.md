@@ -64,7 +64,7 @@ To reproduce the results:
 
 ---
 
-## Software Requirements
+## 📦 Software Requirements
 
 * Stata 17 or newer
 * Required packages (installed automatically):
@@ -75,7 +75,7 @@ To reproduce the results:
 
 ---
 
-## Notes
+## 📚 Notes
 
 * The repository follows a structured reproducibility pipeline inspired by best practices in empirical research.
 * Raw data is not included due to access restrictions.
