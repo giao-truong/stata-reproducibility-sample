@@ -1,6 +1,6 @@
 # SSC Reform and Employment in Finland (2003–2011)
 
-## Overview
+## 📌 Project Overview
 
 This project evaluates the impact of reduced employer social security contributions (SSC) on municipal-level employment outcomes in Northern and Eastern Finland. The policy reform was implemented in two waves (2003 and 2005), allowing for a difference-in-differences (DiD) research design.
 
@@ -8,7 +8,7 @@ The analysis uses panel data at the municipality-year level and examines both em
 
 ---
 
-## Research Design
+## 📊 Research Design
 
 The empirical strategy is based on:
 
@@ -41,7 +41,7 @@ Treatment is defined based on exposure to SSC reductions, with staggered impleme
 
 ---
 
-## Reproducibility
+## ⚙️ Reproducibility
 
 To reproduce the results:
 
