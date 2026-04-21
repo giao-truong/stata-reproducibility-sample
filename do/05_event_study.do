@@ -8,9 +8,9 @@ di "Running event study analysis..."
 
 use "$root/data/cleaned/panel_with_treatment.dta", clear
 
-****************************************************
-* 1. Event study: Pre-trends (baseline = 2002)
-****************************************************
+*******************************************************
+* 1. Pre-trends and dynamic patterns (baseline = 2002)
+*******************************************************
 
 *** Employment ***
 
@@ -88,9 +88,9 @@ graph export "$root/output/figures/event_study_unemployment.png", replace
 
 restore
 
-****************************************************
-* 2. Dynamic DiD (event-time coefficients)
-****************************************************
+******************************************************
+* 2. Year-specific treatment effects (baseline = 2002)
+******************************************************
 
 *** Employment ***
 
